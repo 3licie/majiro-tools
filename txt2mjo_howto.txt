@@ -1,0 +1,4 @@
+
+text_conv majiro my.mjo > my.txt
+
+text_conv majiro my.mjo output.mjo < my_translated.txt
